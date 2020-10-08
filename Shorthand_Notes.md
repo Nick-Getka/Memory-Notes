@@ -1,0 +1,49 @@
+[Shorthand System](http://www.ludism.org/mentat/ShorthandSystem)
+
+[Shorthand Dictionary](https://web.archive.org/web/20041014102300/http://notebooks.wiki.taoriver.net/moin.cgi/AbbreviationsAndShorthand)
+
+- b/c - because
+- abt - about
+- standard - std
+- year - yr
+- years - yrs
+- w/ - with
+- w/o - without
+- w/i - within
+- qty - quantity
+- cp - compare
+- ct - contrast
+- s/t - something
+- s/o - someone
+- s/w - somewhere
+- re - regarding
+- govt - government
+- imp - important
+- prob - problem
+- min - minimum
+- max - maximum
+- vs - versus
+- w/e - where
+- w/h - which
+- w/t - what
+- w/n - when
+- w/s - whose
+- w/m - whom
+- w/y - why
+- w/o - who
+- h/w - how
+- b/g - background
+- btwn - between
+- ex - example
+- b4 - before
+- frq - frequent
+- irt - in relation to
+- alt - alternative
+- wd - word
+- esp - especially
+- subj - subject
+- sub - substitute
+- f/o - follow
+- t/ - that
+- t/n - then
+- t/s - this

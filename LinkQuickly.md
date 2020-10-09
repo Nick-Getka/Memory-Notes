@@ -1,0 +1,28 @@
+[LinkQuickly](http://www.ludism.org/mentat/LinkQuickly)
+
+- When linking one image to another, there are principles to follow for creating clear, vivid images that stay memorable.
+  - Linking images is the basis for all memory techniques.
+- Be Ridiculous
+  - The image created should be as ridiculous and imaginative as possible.
+    - Simple logical images are easy to forget.
+    - ex) When linking CHEF and PAN, the image of a CHEF using a PAN is easily forgotten, since there is nothing remarkable about it.
+- Picture Principles
+  - When coming up with ridiculous images is hard try some of these
+    - Substitution - Two images switching roles. ex) A PAN using a CHEF.
+    - Out of Proportion - Picturing one object much larger or smaller than the other.
+    - Exaggeration - Creating millions of one object coming out of the other.
+    - Action - Incorporating actions.  Rather than a static image have the objects doing something like dancing.
+- SMASHIN' SCOPE
+  - This mnemonic is for creating memorable linking images.
+    - **S**ynethesia/Sensuality - sound, sight, touch, smell.
+    - **M**ovement - action, shaking, flying, kicking...
+    - **A**ssociation - associate with stable memories.
+    - **S**exuality - you can imagine anything having sex
+    - **H**umor - silly, funny.
+    - **I**maginative
+    - **N**umber(s) - details like sequence and/or order
+    - **S**ymbolism- associate abstract pattern with meaningful items
+    - **C**olor - use more than one color
+    - **O**rder/Sequence - use things like PegSystem or MemoryPalace
+    - **P**ositivity - people like to remember positive things
+    - **E**xaggeration - very big, very small, very small, extremely numerous
